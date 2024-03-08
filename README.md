@@ -25,10 +25,10 @@ This Python program extracts data about mobile phones from 40 pages of the Flipk
 
 
 ## Modules Used:
-- [Pandas](https://pandas.pydata.org/) - Data manipulation and analysis library
-- [Requests](https://docs.python-requests.org/en/master/) - HTTP library for making requests
-- [Beautiful Soup (bs4)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) - Web scraping library for parsing HTML and XML
-- [re](https://docs.python.org/3/library/re.html) - Regular expression operations
+[Pandas](https://pandas.pydata.org/) - Data manipulation and analysis library
+[Beautiful Soup (bs4)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) - Web scraping library for parsing HTML and XML
+[re](https://docs.python.org/3/library/re.html) - Regular expression operations
+[Requests](https://docs.python-requests.org/en/master/) - HTTP library for making requests
 
 
 Feel free to explore the links above to learn more about the modules used in this project.
