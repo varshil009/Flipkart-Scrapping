@@ -22,10 +22,13 @@ This Python program extracts data about mobile phones from 40 pages of the Flipk
 16. Rear_Dual_Camera
 
 ## Modules Used:
-- [Pandas](https://pandas.pydata.org/){: .btn .btn-green } - Data manipulation and analysis library
-- [Beautiful Soup (bs4)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/){: .btn .btn-pink } - Web scraping library for parsing HTML and XML
-- [re](https://docs.python.org/3/library/re.html){: .btn .btn-re } - Regular expression operations
-- [Requests](https://docs.python-requests.org/en/master/){: .btn .btn-outline } - HTTP library for making requests
+[![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-blue)](https://pandas.pydata.org/)
+
+[![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-Web%20Scraping-green)](https://www.crummy.com/software/BeautifulSoup/)
+
+[![Regular Expression](https://img.shields.io/badge/Regular%20Expression-Pattern%20Matching-red)](https://docs.python.org/3/library/re.html)
+
+[[!Requests](https://img.shields.io/badge/Requests-HTTP%20Library-blue)](https://docs.python-requests.org/en/master/)
 
 
 Feel free to explore the links above to learn more about the modules used in this project.
