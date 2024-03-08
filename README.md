@@ -21,14 +21,11 @@ This Python program extracts data about mobile phones from 40 pages of the Flipk
 15. Price(₹)
 16. Rear_Dual_Camera
 
-![image](https://github.com/varshil009/Mobiles-on-flipkart/assets/118505855/9a136af0-52d7-4a62-83f3-42e75ac59b21)
-
-
 ## Modules Used:
-[Pandas](https://pandas.pydata.org/) - Data manipulation and analysis library
-[Beautiful Soup (bs4)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) - Web scraping library for parsing HTML and XML
-[re](https://docs.python.org/3/library/re.html) - Regular expression operations
-[Requests](https://docs.python-requests.org/en/master/) - HTTP library for making requests
+- [Pandas](https://pandas.pydata.org/){: .btn .btn-green } - Data manipulation and analysis library
+- [Beautiful Soup (bs4)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/){: .btn .btn-pink } - Web scraping library for parsing HTML and XML
+- [re](https://docs.python.org/3/library/re.html){: .btn .btn-re } - Regular expression operations
+- [Requests](https://docs.python-requests.org/en/master/){: .btn .btn-outline } - HTTP library for making requests
 
 
 Feel free to explore the links above to learn more about the modules used in this project.
